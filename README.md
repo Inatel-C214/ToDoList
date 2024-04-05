@@ -8,11 +8,6 @@
 npm create vite@latest
 ```
 
-```
-npm create vite@latest
-```
-
-
 ## Links Úteis:
 
 - [Vite](https://vitejs.dev/)
