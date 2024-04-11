@@ -13,3 +13,4 @@ npm create vite@latest
 ## Links Úteis:
 
 - [Github Actions](https://docs.github.com/pt/actions)
+- [Github Status Badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
