@@ -1,4 +1,6 @@
-# AULA 06
+# AULA 07
+
+![CI-CD](https://github.com/Inatel-C214/ToDoList/actions/workflows/cicd.yml/badge.svg)
 
 - Estamos utilizando o NodeJS v20.11.1. Para melhor acompanhamento das aulas, é recomendado instalar a mesma versão em [nodejs.org](https://nodejs.org/en/)
 
@@ -10,4 +12,4 @@ npm create vite@latest
 
 ## Links Úteis:
 
-- [Vite](https://vitejs.dev/)
+- [Github Actions](https://docs.github.com/pt/actions)
